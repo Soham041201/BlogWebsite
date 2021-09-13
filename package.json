@@ -2,7 +2,7 @@
   "name": "blog-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Soham041201.github.io/BlogWebsite",
+  "homepage": "https://soham041201.github.io/BlogWebsite",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
